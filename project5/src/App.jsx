@@ -39,7 +39,7 @@ function App() {
             todos.map((e) => (
               <h1>
                 {e}
-              
+              {e}
               </h1>
             ))
           }
